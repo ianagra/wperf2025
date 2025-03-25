@@ -1,4 +1,4 @@
-name: sbrc2025
+name: wperf2025
   - conda-forge
   - defaults
   - https://repo.anaconda.com/pkgs/main

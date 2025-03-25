@@ -62,7 +62,7 @@ Este repositório contém o código-fonte, datasets e scripts necessários para 
 ### Clone o repositório:
 
    ```bash
-   git clone https://github.com/ianagra/sbrc2025.git
+   git clone https://github.com/ianagra/wperf2025.git
    cd sbrc2025
    ```
 
@@ -75,7 +75,7 @@ Este repositório contém o código-fonte, datasets e scripts necessários para 
 ### Ative o ambiente:
 
    ```bash
-   conda activate sbrc2025
+   conda activate wperf2025
    ```
 
 ### Verifique a instalação:
@@ -93,4 +93,4 @@ Para dúvidas, entre em contato:
 Ian Agra - ian@land.ufrj.br
 
 ---
-Nota: Este trabalho está em revisão para o SBRC 2025. Os resultados podem sofrer ajustes antes da versão final.
+Nota: Este trabalho está em revisão para o WPerformance 2025. Os resultados podem sofrer ajustes antes da versão final.
